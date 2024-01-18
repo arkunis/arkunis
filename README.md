@@ -7,7 +7,7 @@
 
 - 🔭 J'ai réalisé [Cours Du Dev](https://coursdudev.com)
 
-- 🌱 J'apprends actuellement : **React**
+- 🌱 J'apprends actuellement : **Kotlin**
 
 - 📫 Me contacter : **sentr.maginot@gmail.com**
 
