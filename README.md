@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, je suis MAGINOT DAMIEN</h1>
-<h3 align="center">Passionné de dév depuis longtemps, j'ai enfin franchis le pas en devenant pro !</h3>
+<h3 align="center">Passionné de dév depuis longtemps, avec presque 15 ans d'expérience, je serai apporté ma vision pour aider</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkunis&label=Profile%20views&color=0e75b6&style=flat" alt="arkunis" /> </p>
 
